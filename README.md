@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
