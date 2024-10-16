@@ -8,4 +8,5 @@ select
     sum(case when state = 'approved' then amount else 0 END)as approved_total_amount  
 from 
     transactions
-group by country, month
+group by 
+    country, month;
