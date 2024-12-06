@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
