@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0013-roman-to-integer) |
+| [2383-add-two-integers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |
