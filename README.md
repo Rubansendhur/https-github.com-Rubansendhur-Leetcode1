@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
