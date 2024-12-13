@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
 | [2383-add-two-integers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
