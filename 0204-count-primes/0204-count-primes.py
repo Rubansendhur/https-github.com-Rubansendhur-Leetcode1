@@ -3,9 +3,8 @@ class Solution:
         prime = []
         if( n <= 1):
             return 0
-        for i in range (0,n):
-            prime.append(1)
-
+            
+        prime = [1] * n
         prime[0] = 0
         prime[1] = 0
 
