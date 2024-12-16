@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
