@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
