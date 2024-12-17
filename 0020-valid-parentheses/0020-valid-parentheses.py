@@ -4,35 +4,32 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-
         stack = []
-        
+        n = len(s)
 
-        for i in range(len(s)):
-            if s[i] == '(':
+        for i in range(0,n):
+            if s[i] == '{' or s[i] == '[' or s[i]=='(':
                 stack.append(s[i])
-            elif s[i] == '[':
-                stack.append(s[i])
-            elif s[i] == '{':
-                stack.append(s[i])
-
             else:
-                if not stack :
+                if len(stack) == 0:
                     return False
-                if s[i] == ')' and stack[-1] == '(':
-                        stack.pop()
-                elif s[i] == '}' and stack[-1] == '{':
-                        stack.pop()
-                elif s[i] == ']' and stack[-1] == '[':
-                    stack.pop()
-                else:
-                    return False        
+                elif s[i] == '}' and stack[-1] != '{':
+                   return False
+                elif s[i] == ']' and stack[-1] != '[' :
+                    return False
+                elif s[i] == ')' and stack[-1] != '(':
+                    return False
+                stack.pop()
 
         if len(stack) == 0:
-            return True
+                return True
         else:
-            return False
+                return False
             
+
+
+
+
                 
         
         
