@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0204-count-primes) |
+| [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
 | [2383-add-two-integers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
+| [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
+| [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
 <!---LeetCode Topics End-->
