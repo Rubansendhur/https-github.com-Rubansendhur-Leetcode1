@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -153,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
