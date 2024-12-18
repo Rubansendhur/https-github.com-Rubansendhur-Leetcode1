@@ -1,7 +1,6 @@
 class Solution:
     def checkAlmostEquivalent(self, word1: str, word2: str) -> bool:
         dict1 = {}
-        ans = 0
         s=word1
         t=word2
         
@@ -23,7 +22,7 @@ class Solution:
         print(dict1)
 
         for k, v in dict1.items():
-            if max(dict1.values()) > 3 or min(dict1.values()) < -3:
+            if v > 3 or v < -3:
                 return False
    
         return True
