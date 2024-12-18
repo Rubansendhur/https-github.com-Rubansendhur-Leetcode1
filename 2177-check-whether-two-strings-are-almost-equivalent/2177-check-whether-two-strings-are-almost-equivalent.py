@@ -22,12 +22,12 @@ class Solution:
 
         print(dict1)
 
-        for value in dict1.values():
-            if abs(value) > 3:
+        for k, v in dict1.items():
+            if max(dict1.values()) > 3 or min(dict1.values()) < -3:
                 return False
-           
+   
         return True
-            
+
        
 
         
