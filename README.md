@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
@@ -179,5 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
