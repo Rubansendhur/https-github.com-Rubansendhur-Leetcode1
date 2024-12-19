@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0367-valid-perfect-square) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0907-koko-eating-bananas) |
