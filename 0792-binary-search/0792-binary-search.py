@@ -6,7 +6,7 @@ class Solution:
         mid = 0
 
         while low <= high:
-            mid = high - low // 2
+            mid = high + low // 2
             if nums[mid] == target:
                 return mid
             elif nums[mid] > target:
