@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0367-valid-perfect-square) |
 | [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2383-add-two-integers) |
@@ -199,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
