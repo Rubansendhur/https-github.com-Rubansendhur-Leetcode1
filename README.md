@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
@@ -222,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0908-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
