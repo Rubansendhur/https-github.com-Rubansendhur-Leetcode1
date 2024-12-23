@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0242-valid-anagram) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
