@@ -1,7 +1,6 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         
-        #find Duplicates
         h = {}
 
         for i in range(len(nums)):
