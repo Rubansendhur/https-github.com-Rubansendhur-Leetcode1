@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0792-binary-search) |
