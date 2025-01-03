@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
