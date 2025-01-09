@@ -7,9 +7,9 @@ class Solution(object):
         """
 
         count = 0
-        l = len(words)
-        for i in words:
-            if i.startswith(pref):
+        l = len(pref)
+        for i in range(len(words)):
+            if words[i][:l] == pref:
                 count += 1
         
         return count
