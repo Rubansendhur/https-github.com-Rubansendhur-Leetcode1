@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0242-valid-anagram) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Math
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1894-merge-strings-alternately) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0605-can-place-flowers) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Bit Manipulation
 |  |
