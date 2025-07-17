@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0217-contains-duplicate) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
@@ -312,5 +314,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
