@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1048-clumsy-factorial) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2383-add-two-integers) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0074-search-a-2d-matrix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
