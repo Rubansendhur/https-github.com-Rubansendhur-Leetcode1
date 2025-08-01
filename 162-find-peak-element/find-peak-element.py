@@ -18,8 +18,11 @@ class Solution:
         while low < high:
 
             mid = (low + high) // 2
-           
-            if nums[mid + 1] > nums[mid]:
+
+            if nums[mid] > nums[mid + 1] and nums[mid] > nums[mid - 1]:
+                return mid
+                
+            elif nums[mid + 1] > nums[mid]:
                low = mid + 1
 
             else:
