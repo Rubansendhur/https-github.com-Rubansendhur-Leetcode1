@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
