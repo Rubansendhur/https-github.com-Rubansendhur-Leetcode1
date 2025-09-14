@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0242-valid-anagram) |
+| [1006-vowel-spellchecker](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0874-backspace-string-compare) |
+| [1006-vowel-spellchecker](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1524-string-matching-in-an-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0907-koko-eating-bananas) |
+| [1006-vowel-spellchecker](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1524-string-matching-in-an-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
