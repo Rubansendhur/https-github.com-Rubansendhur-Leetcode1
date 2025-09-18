@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
+| [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -329,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
