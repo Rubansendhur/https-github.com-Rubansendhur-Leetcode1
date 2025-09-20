@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -268,11 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0907-koko-eating-bananas) |
+| [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -339,4 +344,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
