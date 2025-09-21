@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1502-construct-k-palindrome-strings) |
+| [2023-design-movie-rental-system](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2023-design-movie-rental-system](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2023-design-movie-rental-system) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0232-implement-queue-using-stacks) |
+| [2023-design-movie-rental-system](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 ## Binary Search
@@ -339,10 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
