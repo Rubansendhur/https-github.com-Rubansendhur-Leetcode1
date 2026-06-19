@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1006-vowel-spellchecker) |
+| [1470-shuffle-the-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
