@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1251-average-selling-price](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Rubansendhur/https-github.com-Rubansendhur-Leetcode1/tree/master/1292-immediate-food-delivery-ii) |
